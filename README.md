@@ -6,7 +6,7 @@
 </div>
 
 ## Project Description
-here is a link to the project deployed on vercel <br/> <a href="https://kanban-flow-eight.vercel.app">Kanban-Dashboard</a> <br/>
+here is a link to the project deployed on vercel (note: i've used mockApi so you will need to run api locally) <br/> <a href="https://kanban-flow-eight.vercel.app">Kanban-Dashboard</a> <br/>
 
 - **Main page** - Simple main page 
 - **View Tasks** - Browse Tasks in a responsive, with infinite scroll pagination
@@ -50,8 +50,15 @@ git clone https://github.com/SalmaaOsamaa/KanbanFlow.git
    ```bash
    npm run dev
    ```
+4. **Run Mockapi server**
+```bash
+npm run server
+```
+5. **Open your tasks API**
+   
+   Navigate to the URL shown in your terminal (typically `http://localhost:4000/tasks`)
 
-4. **Open your browser**
+6. **Open your browser**
    
    Navigate to the URL shown in your terminal (typically `http://localhost:5173`)
 
