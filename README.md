@@ -1,8 +1,8 @@
 # Project Management Dashboard
 
 <div align="center" >
-<img src="./src/assets/mainpage.png" alt="main" width="500" height="300" >
 <img src="./src/assets/welcomepage.png" alt="welcome" width="500" height="300" >
+<img src="./src/assets/mainpage.png" alt="main" width="500" height="300" >
 </div>
 
 ## Project Description
