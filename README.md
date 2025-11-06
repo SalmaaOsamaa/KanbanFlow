@@ -6,7 +6,7 @@
 </div>
 
 ## Project Description
-here is a link to the project deployed on vercel <br/> <a href="https://kanban-flow-eight.vercel.app/dashboard">Product-Dashboard</a> <br/>
+here is a link to the project deployed on vercel <br/> <a href="https://kanban-flow-eight.vercel.app">Kanban-Dashboard</a> <br/>
 
 - **Main page** - Simple main page 
 - **View Tasks** - Browse Tasks in a responsive, with infinite scroll pagination
