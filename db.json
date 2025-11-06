@@ -14,10 +14,10 @@
       "description": "task 2 description",
       "dueDate": "2025-12-05",
       "priority": "Medium",
-      "column": "todo"
+      "column": "done"
     },
     {
-      "id": "2",
+      "id": "4444",
       "title": "task 2",
       "description": "task 2 description",
       "dueDate": "2025-12-05",
@@ -25,7 +25,7 @@
       "column": "todo"
     },
     {
-      "id": "2",
+      "id": "2444",
       "title": "task 2",
       "description": "task 2 description",
       "dueDate": "2025-12-05",
@@ -33,12 +33,12 @@
       "column": "todo"
     },
     {
-      "id": "2",
+      "id": "2223",
       "title": "task 2",
       "description": "task 2 description",
       "dueDate": "2025-12-05",
       "priority": "Medium",
-      "column": "todo"
+      "column": "in progress"
     },
     {
       "id": "3",
@@ -46,7 +46,7 @@
       "description": "task 3 description",
       "dueDate": "2025-10-05",
       "priority": "High",
-      "column": "todo"
+      "column": "blocked"
     },
     {
       "id": "4",
@@ -54,7 +54,7 @@
       "description": "task 1 description",
       "dueDate": "2025-11-05",
       "priority": "Low",
-      "column": "in progress"
+      "column": "done"
     },
     {
       "id": "6",
@@ -62,7 +62,7 @@
       "description": "work on api implementation and system design",
       "dueDate": "2025-09-05",
       "priority": "Medium",
-      "column": "in progress"
+      "column": "done"
     },
     {
       "id": "7",
@@ -94,7 +94,7 @@
       "description": "task 1 description",
       "dueDate": "2025-11-15",
       "priority": "Low",
-      "column": "blocked"
+      "column": "in progress"
     },
     {
       "id": "11",
@@ -134,7 +134,7 @@
       "description": "task 3 description",
       "dueDate": "2025-12-29",
       "priority": "High",
-      "column": "blocked"
+      "column": "done"
     },
     {
       "id": "16",
@@ -167,9 +167,6 @@
       "dueDate": "2025-12-29",
       "priority": "High",
       "column": "blocked"
-    },
-    {
-      "id": "bfe5be9e-6b87-40dc-87c2-2ce32296760c"
     },
     {
       "id": "23f79a10-9d93-447f-a590-5319de95457a",
